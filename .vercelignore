@@ -50,7 +50,6 @@ yarn-error.log*
 # Backend files (not needed for frontend deployment)
 backend/
 .specify/
-.claude/
 CLAUDE.md
 PROJECT_COMPLETION.md
 DEPLOYMENT_READY.md
